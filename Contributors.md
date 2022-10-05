@@ -3,7 +3,6 @@
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 - [Will Menezes](https://github.com/uiuzih)
-- [Kanishk Mewal](https://github.com/Kanishk-Mewal)
 - [Vicky](https://github.com/HungryVicky)
 - [Aryam parmar](https://github.com/aryamparmar)
 - [JpArango](https://github.com/Jpkeys29)
@@ -2267,5 +2266,6 @@ nowy wpis
 - [Khushi Agarwal] (https://github.com/curriee11)
 - [Ashish Antony Pauly](https://github.com/ashishantonytsr)
 - [Aman Jain](https://github.com/amannayak0007)
+- [Bhavesh Gavali](https://github.com/Bhavesh0210)
 
 <!-- prettier-ignore-end -->
